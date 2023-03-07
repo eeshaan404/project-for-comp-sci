@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAADM/P//z+tEzLz//0T+T03L/P//TuT//8z7/kT03f7//+9ORPTdFP//7+5ERL0k8c/v7k5EvSTxz+/u7vTdFP//+/7v9N3+///8//9O5P//vLz//0T+T03MzPz//7/sRMzMzMzMzMzMzLzMzMzLzMzLzMy8zMzMzMzMy8zMzMzLzA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "villager3WalkFront0"
+    },
+    "image1": {
+        "data": "hwQQABAAAABmZmZmZmZmZpaZZpmZZplplmmWyZxplmmWZplpzJlmaWaWmWacmWlmZpmZZpmZmWaWyZmWZmaZaZbMnJaZZsZplmxmmWnJzGmWmWZmaZmcaWaZmZlmmZlmZpaZyWaZaWaWZpnMlplmaZZplsmcaZZplplmmZlmmWlmZmZmZmZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "villager3WalkFront1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
